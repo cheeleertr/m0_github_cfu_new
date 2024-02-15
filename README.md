@@ -19,7 +19,7 @@
 - git clone: Copy repository
 - git push -u origin main: Push repository to Github
 
-- git remote remove origin
-- git remote add origin [insert SSH code here]
-- git branch -M main
-- git push -u origin main
+1. git remote remove origin
+2. git remote add origin [insert SSH code here]
+3. git branch -M main
+4. git push -u origin main

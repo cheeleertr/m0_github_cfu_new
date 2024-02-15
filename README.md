@@ -18,3 +18,8 @@
 - git remote -v: Check git remote connection
 - git clone: Copy repository
 - git push -u origin main: Push repository to Github
+
+- git remote remove origin
+- git remote add origin [insert SSH code here]
+- git branch -M main
+- git push -u origin main

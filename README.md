@@ -8,3 +8,13 @@
 1. Add and commit your work, then push those changes to GitHub.
 1. Now, show how you would remove the remote origin.
 1. Create a new remote repository in GitHub and connect your local repository to that one.
+
+git init: Iniate git for directory
+git add: Add changes
+git status: Check status of repository
+git diff: Check changes from last commit
+git commit -m "": commit changes with a message of change
+git log see history of commits
+git remote -v: Check git remote connection
+git clone: Copy repository
+git push -u origin main: Push repository to Github
